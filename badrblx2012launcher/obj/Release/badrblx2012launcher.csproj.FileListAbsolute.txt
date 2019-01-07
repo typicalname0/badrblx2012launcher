@@ -1,0 +1,10 @@
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\bin\Release\badrblx2012launcher.exe.config
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\bin\Release\badrblx2012launcher.exe
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\bin\Release\badrblx2012launcher.pdb
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.launcher.resources
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.Properties.Resources.resources
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.csproj.GenerateResource.cache
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.csproj.CoreCompileInputs.cache
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.exe
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.pdb
+C:\Users\arai2\source\repos\badrblx2012launcher\badrblx2012launcher\obj\Release\badrblx2012launcher.csprojAssemblyReference.cache
